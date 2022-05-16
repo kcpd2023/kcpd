@@ -1,0 +1,4 @@
+  /* Account class constructor.
+    In it we initialise the AccountNo and Balance property.
+    These properties are needed to identify an account and perform transaction using its available methods
+    */
